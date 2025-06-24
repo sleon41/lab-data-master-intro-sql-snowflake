@@ -194,17 +194,6 @@ Dentro de tu repositorio forkeado, asegúrate de añadir los siguientes archivos
   * Qué consultas implementaste y qué resultados obtuviste
 * (Opcional) Capturas de pantalla con los resultados de las consultas
 
-### Checklist Antes de Entregar
-
-* [ ] `create.sql`
-* [ ] `seeding.sql`
-* [ ] `diagram.png` o `diagram.jpg`
-* [ ] `lab-notes.md` con explicación del modelo y resultados
-* [ ] (Opcional) Capturas de pantalla de consultas
-* [ ] ✅ **Has pegado el enlace a tu Pull Request en el portal del estudiante**
-
-¿Necesitas ayuda? Consulta con tu instructor o pregunta en el canal de Slack de tu cohort.
-
 ## ¡Has completado tu primer laboratorio en Snowflake!
 
 A partir de aquí, los siguientes laboratorios añadirán complejidad: limpieza, estandarización, normalización, arquitectura Medallion y más. Este ha sido el primer paso para convertirte en un experto en arquitectura de datos moderna.
