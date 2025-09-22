@@ -43,6 +43,7 @@ Antes de comenzar a escribir SQL, realiza el diseño lógico de la base de datos
 * Asegúrate de indicar los tipos de relación y los nombres de claves primarias/foráneas.
 
 > ✅ Entregable: Imagen del diagrama ERD (`.png` o `.jpg`).
+<img width="835" height="471" alt="Untitled (2)" src="https://github.com/user-attachments/assets/c730655f-53eb-4313-b181-ffd0ef610fb1" />
 
 ## Desafío 2 – Crear la Base de Datos y Tablas en Snowflake
 
